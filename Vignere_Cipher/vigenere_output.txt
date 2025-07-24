@@ -1,0 +1,4 @@
+Keyword: BYE
+Plaintext: GOOD MORNING
+Encrypted: HMSEKSSLMOE
+Decrypted: GOODMORNING
