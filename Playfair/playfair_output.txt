@@ -1,0 +1,4 @@
+Keyword: MONARCHY
+Plaintext: HELLO WORLD
+Encrypted: CFSUPMVNMTBZ
+Decrypted: HELXLOWORLDX
