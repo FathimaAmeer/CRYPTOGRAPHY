@@ -1,0 +1,6 @@
+Key Matrix:
+[[1 2]
+ [7 4]]
+Plaintext: HELLO FATHIMA
+Encrypted: PNHRYOMYXDMG
+Decrypted: Matrix is not invertible under mod 26
